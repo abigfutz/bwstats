@@ -13,6 +13,3 @@ Be able to fetch the following stats of a specified player reliably:
 - Beds lost
 - Wins
 - Losses
-- Final kill to final death ratio
-- Beds broken to beds lost ratio
-- Win to loss ratio
