@@ -1,0 +1,12 @@
+[project]
+name = "bwstats"
+version = "0.0.1"
+authors = [
+    { name="Michael Smith", email="michael.abigfutz@gmail.com" }
+]
+description = "A wrapper around Hypixel's API, specifically made to get the bedwars stats of a certain player."
+requires-python = ">=3.10"
+
+[projects.urls]
+"Homepage" = "https://github.com/abigfutz/bwstats.git"
+"Bug tracker" = "https://github.com/abigfutz/bwstats.git/issues"
